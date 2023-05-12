@@ -1,0 +1,8 @@
+Hello, this is David Li, the disigner of this project(s).
+This project is open source so you may modify this any way.
+
+
+
+Basic edition 0.62.0
+
+-David Li (dli@nccsk12.org)
